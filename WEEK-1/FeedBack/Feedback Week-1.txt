@@ -1,0 +1,9 @@
+Feedback: Week-1
+
+Evaluation of model training
+Model's Hyper Parameters
+Cross validation
+Testing/Training : 30/70
+larger Dataset : 40/60
+vannila models
+ROC AUC CURVES
